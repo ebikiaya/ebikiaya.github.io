@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebikiaya.github.io/GJk/sitemap_index.txt
+Sitemap: https://ebikiaya.github.io/LDE/sitemap_index.txt
+Sitemap: https://ebikiaya.github.io/ZoB/sitemap_index.txt
+Sitemap: https://ebikiaya.github.io/sVW/sitemap_index.txt
